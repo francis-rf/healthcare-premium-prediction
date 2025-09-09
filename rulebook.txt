@@ -1,0 +1,2 @@
+Do you want me to give you a standard imputation strategy (rulebook) for categorical + numerical features so you can reuse it across future projects?
+Do you want me to give you a rulebook on when to drop, cap, or impute outliers, so you can reuse it across all projects (not just Age here)?
